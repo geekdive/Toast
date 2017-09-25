@@ -1,3 +1,3 @@
 # This is Simple Toast
 
-![ScreenShot](https://github.com/moeslimdecoded/Toast/blob/master/simple-toasts.png})
+![alt text](https://github.com/moeslimdecoded/Toast/blob/master/simple-toasts.png "Description goes here")
